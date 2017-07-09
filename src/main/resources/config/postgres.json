@@ -1,0 +1,7 @@
+{
+  "description": "postgresql connection",
+  "jdbcUrl": "jdbc:postgresql://localhost:5432/postgres",
+  "username": "benchmarkdbuser",
+  "password": "benchmarkdbpass",
+  "maximumPoolSize": 256
+}
